@@ -1,0 +1,76 @@
+body {
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 1rem; 
+
+}
+body * {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+
+h1 {
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.color	{
+
+	background-color: #4c1431;
+	color: #ffffff;
+}
+
+.trabajos	{
+
+	background-color: #4c1431;
+	color: #ffffff;
+}
+.soyjaz {
+
+  background-image: url('../img/bg-jazmin.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: #ffffff;
+  min-height: 210px;
+ 
+
+}
+
+ hr {
+ 	height: 2px;
+	background-color: #4c1431;
+ }
+
+p.card-text {
+	color: #000;
+}
+
+h5.card-title {
+	color: #000;
+	font-weight: 500;
+}
+
+ .navbar-light .navbar-toggler {
+   border-color: #fff;
+ }
+  .fa, .fas.fa-bars {
+ 	color: #ffffff;
+ } 
+
+a:link {
+  text-decoration: none;
+  color: white;
+}
+
+a:visited {
+  text-decoration: none;
+  color: white;
+}
+
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
