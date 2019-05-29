@@ -8,20 +8,33 @@ body * {
   border: 0;
   padding: 0;
 }
-
+ 
 
 h1 {
-	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-family: 'Satisfy', cursive;
+}
+h2 {
+  font-family: 'Satisfy', cursive;
+}
+.jazz {
+  font-family: 'Satisfy', cursive;
+}
+
+#degradado {
+background: -webkit-linear-gradient(#13303b, #22596e); /* For Safari 5.1 to 6.0 */
+background: -o-linear-gradient(#13303b, #22596e); /* For Opera 11.1 to 12.0 */
+background: -moz-linear-gradient(#13303b, #22596e); /* For Firefox 3.6 to 15 */
+background: linear-gradient(#13303b, #22596e,); /* Standard syntax */
 }
 .color	{
 
-	background-color: #4c1431;
+	background-color: #22596e;
 	color: #ffffff;
 }
 
 .trabajos	{
 
-	background-color: #4c1431;
+	background-color: #000;
 	color: #ffffff;
 }
 .soyjaz {
@@ -36,8 +49,10 @@ h1 {
 }
 
  hr {
- 	height: 2px;
-	background-color: #4c1431;
+ 	height: 3px;
+  text-align: center;
+  width: 50%;
+  border-bottom:#22596e dashed 3px;
  }
 
 p.card-text {
