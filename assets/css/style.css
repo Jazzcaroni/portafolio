@@ -1,6 +1,7 @@
 body {
    font-family: 'Montserrat', sans-serif;
-   margin-top: 1rem; 
+   margin-top: 1rem;
+
 
 }
 body * {
@@ -31,6 +32,7 @@ background: linear-gradient(#13303b, #22596e,); /* Standard syntax */
 	background-color: #22596e;
 	color: #ffffff;
 }
+
 
 .trabajos	{
 
